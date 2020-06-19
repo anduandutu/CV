@@ -15,6 +15,7 @@ environment in order to insure that the next software version would match the st
 ### EDUCATION
 Bachelor’s degree - Politehnica University of Bucharest ( GPA: 4.0 )
 October 2017 - July 2021 Specialised in System Engineering.
+High School - Nicolae Titulescu National College - Pucioasa
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -38,10 +39,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anduandutu/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
