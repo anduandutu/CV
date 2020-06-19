@@ -47,8 +47,8 @@ While developing these projects i have gained skills such as:
 - Good Debugging skills
 - Knowledge of Databases
 ## OTHER SKILLS 
-English - Advanced
-French - Intermediate
+- English : Advanced
+- French : Intermediate
 
 ## CONTACT INFORMATION AND ADDITIONAL INFO
 
