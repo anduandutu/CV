@@ -4,7 +4,7 @@
 ### Birth Date: 19/01/1999 
 ### Gender: M
 
-### **PROFESSIONAL EXPERIENCE**
+## **PROFESSIONAL EXPERIENCE**
 ### Compliance And Certification Tester - Electronic Arts Inc., BUCHAREST - (3 months)
 ### Job Domain: 
 IT Software IT&C Software
