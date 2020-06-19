@@ -6,6 +6,9 @@
 ### Phone number: 0736344860
 ### Email: andrei.gheorghe901@gmail.com
 
+# **PROFESSIONAL EXPERIENCE**
+### Compliance And Certification Tester - Electronic Arts Inc., BUCHAREST - (3 months)
+#### **Job domain** : IT Software IT&C Software
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
