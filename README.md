@@ -1,6 +1,6 @@
 ## Welcome
 
-## Name: GHEORGHE ANDREI-ALEXANDRU 
+##  Full Name: GHEORGHE ANDREI-ALEXANDRU 
 ### Birth Date: 19/01/1999 
 ### Gender: M
 ### Phone number: 0736344860
