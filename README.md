@@ -3,8 +3,6 @@
 ##  Full Name: GHEORGHE ANDREI-ALEXANDRU 
 ### Birth Date: 19/01/1999 
 ### Gender: M
-### Phone number: 0736344860
-### Email: andrei.gheorghe901@gmail.com
 
 # **PROFESSIONAL EXPERIENCE**
 ### Compliance And Certification Tester - Electronic Arts Inc., BUCHAREST - (3 months)
@@ -39,4 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Phone number: 0736344860
+### Email: andrei.gheorghe901@gmail.com
+### For more details about my projects , check out the following link: https://github.com/anduandutu/Proiecte_CV !
