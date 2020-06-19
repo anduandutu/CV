@@ -13,9 +13,13 @@ I was in charge of making sure that the software developed complies with the req
 by Sony for the PS4 platform. If the software was non-compliant, I had to enter new bugs in the JIRA 
 environment in order to insure that the next software version would match the standards.
 ### EDUCATION
-Bachelor’s degree - Politehnica University of Bucharest ( GPA: 4.0 )
-October 2017 - July 2021 Specialised in System Engineering.
-High School - Nicolae Titulescu National College - Pucioasa
+#### Bachelor’s degree - Politehnica University of Bucharest 
+Duration : October 2017 - July 2021 
+Remarks : Specialised in System Engineering, with a GPA of 4.0 .
+#### High School - National College Nicolae Titulescu, Pucioasa 
+Duration: 2013-2017
+Remarks: During high-school i have taken part in various programming competitions
+such as OJI, GREPIT , InfoEducație.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
