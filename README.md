@@ -28,31 +28,14 @@ Remarks :
 Duration: 2013-2017
 Remarks: During high-school i have taken part in various programming competitions
 such as OJI, GREPIT , InfoEducație.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PROJECTS
 
-```markdown
-Syntax highlighted code block
+## GENERAL SKILLS
 
-# Header 1
-## Header 2
-### Header 3
+## OTHER SKILLS
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
+## CONTACT INFORMATION
 
 ### Phone number: 0736344860
 ### Email: andrei.gheorghe901@gmail.com
