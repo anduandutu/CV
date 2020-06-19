@@ -30,12 +30,27 @@ Remarks: During high-school i have taken part in various programming competition
 such as OJI, GREPIT , InfoEducație.
 
 ## PROJECTS
-
+During these 3 years as a student, i have been either responsible or taken part in the development process of the following projects:
+- A research project coordinated by Proffessor PhD Ion Necoară about the usage of numerical algorithms for solving linear systems in 
+the context of Big Data (MATLAB)
+- In partnership with the dean of Engineering and Technological Systems Management Faculty , i developed an application for the management of students enrolled using Erasmus Scholarships.(C++)
+- I developed an app for hotel scheduling management for an accomodation unit (C#)
+- I developed an app for car rental, ticket reservation and hotel scheduling management (UML,Java)
+- I developed a mini-online store (PHP, HTML, CSS, little JavaScript)
+- I developed a simple app for image filtering using binary arithemtic (Java)
 ## GENERAL SKILLS
+While developing these projects i have gained skills such as:
+- Problem solving
+- Analytical thinking
+- Object oriented programming
+- Team work
+- Good Debugging skills
+- Knowledge of Databases
+## OTHER SKILLS 
+English - Advanced
+French - Intermediate
 
-## OTHER SKILLS
-
-## CONTACT INFORMATION
+## CONTACT INFORMATION AND ADDITIONAL INFO
 
 ### Phone number: 0736344860
 ### Email: andrei.gheorghe901@gmail.com
