@@ -4,13 +4,16 @@
 ### Birth Date: 19/01/1999 
 ### Gender: M
 
-# **PROFESSIONAL EXPERIENCE**
+### **PROFESSIONAL EXPERIENCE**
 ### Compliance And Certification Tester - Electronic Arts Inc., BUCHAREST - (3 months)
-#### **Job domain** : IT Software IT&C Software
-#### Responsabilities: 
+### Job Domain: IT Software IT&C Software
+### **Responsabilities** :
 I was in charge of making sure that the software developed complies with the required standards
 by Sony for the PS4 platform. If the software was non-compliant, I had to enter new bugs in the JIRA 
 environment in order to insure that the next software version would match the standards.
+### EDUCATION
+Bachelor’s degree - Politehnica University of Bucharest ( GPA: 4.0 )
+October 2017 - July 2021 Specialised in System Engineering.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
