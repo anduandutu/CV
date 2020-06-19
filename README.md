@@ -1,10 +1,10 @@
 ## Welcome
 
-# Name: GHEORGHE ANDREI-ALEXANDRU 
-# Birth Date: 19/01/1999 
-# Gender: M
-# Phone number: 0736344860
-# Email: andrei.gheorghe901@gmail.com
+## Name: GHEORGHE ANDREI-ALEXANDRU 
+## Birth Date: 19/01/1999 
+## Gender: M
+### Phone number: 0736344860
+### Email: andrei.gheorghe901@gmail.com
 
 ### Markdown
 
