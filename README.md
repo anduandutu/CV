@@ -15,7 +15,12 @@ environment in order to insure that the next software version would match the st
 ### EDUCATION
 #### Bachelor’s degree - Politehnica University of Bucharest 
 Duration : October 2017 - July 2021 
-Remarks : Specialised in System Engineering, with a GPA of 4.0 .
+Remarks : 
+- Specialised in System Engineering, with a GPA of 4.0 .
+- During this time, i was able to gain tehnical skills in the following programming languages:
+  A)
+  B)
+  C)
 #### High School - National College Nicolae Titulescu, Pucioasa 
 Duration: 2013-2017
 Remarks: During high-school i have taken part in various programming competitions
