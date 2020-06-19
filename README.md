@@ -6,7 +6,8 @@
 
 ### **PROFESSIONAL EXPERIENCE**
 ### Compliance And Certification Tester - Electronic Arts Inc., BUCHAREST - (3 months)
-### Job Domain: IT Software IT&C Software
+### Job Domain: 
+IT Software IT&C Software
 ### **Responsabilities** :
 I was in charge of making sure that the software developed complies with the required standards
 by Sony for the PS4 platform. If the software was non-compliant, I had to enter new bugs in the JIRA 
