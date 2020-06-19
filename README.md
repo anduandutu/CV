@@ -24,6 +24,7 @@ Remarks :
   - UML : Intermediate
   - Java : Intermediate
   - C++ : Beginner
+
 #### High School - National College Nicolae Titulescu, Pucioasa 
 Duration: 2013-2017
 Remarks: During high-school i have taken part in various programming competitions
@@ -38,6 +39,7 @@ the context of Big Data (MATLAB)
 - I developed an app for car rental, ticket reservation and hotel scheduling management (UML,Java)
 - I developed a mini-online store (PHP, HTML, CSS, little JavaScript)
 - I developed a simple app for image filtering using binary arithemtic (Java)
+
 ## GENERAL SKILLS
 While developing these projects i have gained skills such as:
 - Problem solving
@@ -46,12 +48,12 @@ While developing these projects i have gained skills such as:
 - Team work
 - Good Debugging skills
 - Knowledge of Databases
+
 ## OTHER SKILLS 
 - English : Advanced
 - French : Intermediate
 
 ## CONTACT INFORMATION AND ADDITIONAL INFO
-
 ### Phone number: 0736344860
 ### Email: andrei.gheorghe901@gmail.com
 ### For more details about my projects , check out the following link: https://github.com/anduandutu/Proiecte_CV !
