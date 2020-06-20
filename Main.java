@@ -73,9 +73,20 @@ public class Main {
 		public static void displayErrorMessage() {
 			System.err.println("The array must be at least 2 elements long!");
 		}
+		public static void usage(int arg1, int arg2) {
+			System.out.println("Performante timp: O(n^2) - algoritm de căutare secvențială a perechii fiecărui element");
+			System.out.println("Performanțe spațiu: O(n)");
+			System.out.println("Se vor da ca argumente : ");
+			System.out.println("Lungimea sirului A in care se cauta perechile:");
+			System.out.println("Diferenta cautata");
+			System.out.println("Se ruleaza programul");
+			System.out.println("Dimensiunea vectorului de intrare: n = " + arg1);
+			System.out.println("Diferenta cautata:" + arg2);
+		}
 		public static void main(String[] args) {
 			//Primul argument este dimensiunea vectorului de intrare 
 			//Al doilea argument este rezultatul dorit pentru scaderi
+			usage(Integer.parseInt(args[0]),Integer.parseInt(args[1]));
 			int noOfInputs = Integer.parseInt(args[0]);
 			if(noOfInputs<2) {
 				displayErrorMessage();
